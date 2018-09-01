@@ -1,5 +1,4 @@
 ---
-templateKey: 'home-page'
-path: /
-title: Home sweet home!
+title: Main title
 ---
+
