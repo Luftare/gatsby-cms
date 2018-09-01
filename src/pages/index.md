@@ -1,5 +1,5 @@
 ---
 templateKey: 'home-page'
-path: ''
+path: /
 title: Home sweet home!
 ---
