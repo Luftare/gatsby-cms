@@ -12,6 +12,7 @@ export const HomePageTemplate = ({ title = '', posts = [] }) => {
 };
 
 const HomePage = ({ data }) => {
+  if(!data) return null;
   const content = data.page.frontmatter;
   const posts = data.posts.edges;
   return (
