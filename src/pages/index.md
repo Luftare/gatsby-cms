@@ -1,4 +1,4 @@
 ---
 title: Main title
+path: /
 ---
-
