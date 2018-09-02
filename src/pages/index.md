@@ -1,5 +1,5 @@
 ---
 templateKey: home-page
-title: Welcome!
+title: Moikka moi!
 ---
 
