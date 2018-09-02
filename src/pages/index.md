@@ -1,5 +1,5 @@
 ---
-templateKey: 'home-page'
-title: Main titleasd
-path: /
+templateKey: home-page
+title: Welcome!
 ---
+
