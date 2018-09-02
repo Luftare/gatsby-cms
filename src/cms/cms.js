@@ -7,6 +7,6 @@ import HomePagePreview from './preview-templates/HomePagePreview'
 
 CMS.registerPreviewStyle('/styles.css')
 CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('', HomePagePreview)
+CMS.registerPreviewTemplate('home', HomePagePreview)
 // CMS.registerPreviewTemplate('products', ProductPagePreview)
 // CMS.registerPreviewTemplate('blog', BlogPostPreview)
