@@ -1,9 +1,8 @@
 ---
 templateKey: home-page
 title: Moikka moi!
-gammeryImages:
-  - galleryImage: /img/coffee-gear.png
-  - galleryImage: /img/tutorials.png
-  - galleryImage: /img/coffee.png
+gallery:
+  - undefined: /img/meeting-space.png
+  - undefined: /img/coffee-gear.png
 ---
 
