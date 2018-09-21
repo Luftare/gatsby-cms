@@ -22,3 +22,4 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Gallery", name: "gallery", widget: "list", fields: [label: "Image", name: "galleryImage", widget: "image"]}
